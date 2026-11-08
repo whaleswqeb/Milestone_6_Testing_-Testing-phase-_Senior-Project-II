@@ -17,7 +17,7 @@
 
 ## Shared Source Control Repository & Code Artifacts
 
-- **Private Git Repository URL:** [https://github.com/capstone-student/student-academic-management-portal-samp](https://github.com/capstone-student/student-academic-management-portal-samp)  
+- **Private Git Repository URL:** [https://github.com/whaleswqeb/Milestone_6_Testing_-Testing-phase-_Senior-Project-II.git](https://github.com/whaleswqeb/Milestone_6_Testing_-Testing-phase-_Senior-Project-II.git)  
   *(Access granted to course instructor and faculty mentors)*
 - **Public Portfolio Mirror:** [https://capstone-student.github.io/samp-portfolio/](https://fancy-druid-b42e3e.netlify.app/)
 - **Packaged Code Deliverable:** `Milestone_6_Code_Artifacts.zip` (complete standalone source tree with maven and npm descriptors)
